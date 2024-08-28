@@ -22,7 +22,7 @@ The SmartAd project aims to revolutionize the advertising industry by providing 
 
 # Technical Details
 
-- Packages Used
+Packages Used
 
 - OpenCV: For video capture and image processing.
 - MediaPipe: For real-time face detection.
