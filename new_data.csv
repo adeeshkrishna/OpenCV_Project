@@ -1,0 +1,528 @@
+gender,dress_type,age_range,ad_category
+male,modern,(15-20),casual wear
+female,modern,(38-43),luxury
+male,modern,(50+),electronics
+male,casual,(44-50),sportswear
+male,formal,(33-37),formal wear
+female,casual,(15-20),casual wear
+male,casual,(38-43),sportswear
+male,sportswear,(50+),sportswear
+male,modern,(38-43),electronics
+female,formal,(44-50),travel and leisure
+male,sportswear,(25-32),sportswear
+male,casual,(38-43),sportswear
+male,modern,(50+),electronics
+male,sportswear,(38-43),sportswear
+female,modern,(38-43),luxury
+male,sportswear,(38-43),sportswear
+female,modern,(21-24),casual wear
+female,casual,(21-24),casual wear
+female,formal,(25-32),casual wear
+male,casual,(15-20),sportswear
+female,formal,(38-43),travel and leisure
+male,modern,(44-50),electronics
+female,sportswear,(15-20),casual wear
+female,casual,(44-50),casual wear
+female,formal,(15-20),casual wear
+female,casual,(25-32),casual wear
+female,formal,(38-43),travel and leisure
+female,casual,(38-43),casual wear
+female,formal,(33-37),travel and leisure
+female,formal,(44-50),travel and leisure
+male,modern,(15-20),casual wear
+male,formal,(15-20),casual wear
+female,modern,(21-24),casual wear
+female,formal,(33-37),travel and leisure
+female,sportswear,(50+),casual wear
+male,sportswear,(50+),sportswear
+female,sportswear,(21-24),casual wear
+male,formal,(21-24),casual wear
+male,modern,(21-24),casual wear
+male,modern,(44-50),electronics
+male,formal,(44-50),formal wear
+male,sportswear,(25-32),sportswear
+female,sportswear,(25-32),casual wear
+female,modern,(21-24),casual wear
+female,sportswear,(33-37),casual wear
+female,casual,(15-20),casual wear
+female,modern,(44-50),luxury
+male,sportswear,(33-37),sportswear
+female,modern,(38-43),luxury
+female,casual,(44-50),casual wear
+male,modern,(44-50),electronics
+female,modern,(25-32),casual wear
+male,modern,(15-20),casual wear
+female,modern,(15-20),casual wear
+male,casual,(50+),sportswear
+female,formal,(50+),travel and leisure
+female,modern,(50+),luxury
+male,modern,(50+),electronics
+male,sportswear,(38-43),sportswear
+male,modern,(38-43),electronics
+male,sportswear,(44-50),sportswear
+male,formal,(21-24),casual wear
+male,casual,(25-32),sportswear
+male,casual,(25-32),sportswear
+male,formal,(50+),formal wear
+female,casual,(44-50),casual wear
+female,formal,(33-37),travel and leisure
+male,formal,(21-24),casual wear
+female,formal,(44-50),travel and leisure
+female,casual,(21-24),casual wear
+female,sportswear,(21-24),casual wear
+female,formal,(21-24),casual wear
+male,modern,(44-50),electronics
+female,casual,(50+),casual wear
+male,formal,(25-32),casual wear
+female,formal,(25-32),casual wear
+female,modern,(50+),luxury
+female,sportswear,(21-24),casual wear
+male,sportswear,(33-37),sportswear
+female,sportswear,(15-20),casual wear
+male,formal,(44-50),formal wear
+female,formal,(15-20),casual wear
+male,formal,(50+),formal wear
+female,casual,(33-37),casual wear
+male,modern,(44-50),electronics
+male,formal,(50+),formal wear
+female,modern,(21-24),casual wear
+male,modern,(25-32),casual wear
+female,sportswear,(15-20),casual wear
+female,casual,(38-43),casual wear
+female,formal,(38-43),travel and leisure
+female,sportswear,(33-37),casual wear
+female,sportswear,(21-24),casual wear
+female,formal,(15-20),casual wear
+female,modern,(21-24),casual wear
+female,sportswear,(15-20),casual wear
+female,modern,(33-37),luxury
+female,casual,(33-37),casual wear
+female,modern,(38-43),luxury
+male,casual,(21-24),sportswear
+male,modern,(44-50),electronics
+female,sportswear,(38-43),casual wear
+female,sportswear,(21-24),casual wear
+female,casual,(38-43),casual wear
+female,formal,(44-50),travel and leisure
+female,casual,(25-32),casual wear
+female,casual,(25-32),casual wear
+female,modern,(25-32),casual wear
+female,modern,(25-32),casual wear
+male,casual,(50+),sportswear
+female,sportswear,(15-20),casual wear
+male,modern,(50+),electronics
+female,formal,(50+),travel and leisure
+female,modern,(50+),luxury
+male,modern,(25-32),casual wear
+female,formal,(44-50),travel and leisure
+male,casual,(33-37),sportswear
+female,formal,(33-37),travel and leisure
+female,casual,(15-20),casual wear
+male,casual,(25-32),sportswear
+female,casual,(25-32),casual wear
+male,formal,(25-32),casual wear
+female,casual,(38-43),casual wear
+male,sportswear,(21-24),sportswear
+male,formal,(38-43),formal wear
+female,sportswear,(21-24),casual wear
+female,casual,(25-32),casual wear
+male,modern,(25-32),casual wear
+female,casual,(38-43),casual wear
+female,sportswear,(38-43),casual wear
+female,sportswear,(21-24),casual wear
+male,formal,(33-37),formal wear
+male,modern,(21-24),casual wear
+male,formal,(38-43),formal wear
+male,sportswear,(44-50),sportswear
+male,casual,(38-43),sportswear
+male,modern,(44-50),electronics
+male,casual,(15-20),sportswear
+male,casual,(38-43),sportswear
+male,modern,(15-20),casual wear
+female,formal,(33-37),travel and leisure
+male,casual,(21-24),sportswear
+female,sportswear,(44-50),casual wear
+female,casual,(21-24),casual wear
+female,modern,(15-20),casual wear
+male,modern,(44-50),electronics
+male,modern,(21-24),casual wear
+male,formal,(38-43),formal wear
+male,casual,(25-32),sportswear
+female,formal,(15-20),casual wear
+male,formal,(21-24),casual wear
+male,modern,(15-20),casual wear
+male,modern,(50+),electronics
+male,formal,(15-20),casual wear
+male,casual,(44-50),sportswear
+female,sportswear,(50+),casual wear
+male,formal,(44-50),formal wear
+female,casual,(25-32),casual wear
+male,modern,(50+),electronics
+female,modern,(38-43),luxury
+male,casual,(15-20),sportswear
+male,sportswear,(21-24),sportswear
+female,modern,(33-37),luxury
+female,modern,(15-20),casual wear
+female,modern,(15-20),casual wear
+male,casual,(25-32),sportswear
+female,formal,(38-43),travel and leisure
+male,modern,(33-37),electronics
+male,formal,(50+),formal wear
+female,sportswear,(50+),casual wear
+female,modern,(50+),luxury
+male,modern,(44-50),electronics
+male,sportswear,(44-50),sportswear
+female,modern,(21-24),casual wear
+female,formal,(33-37),travel and leisure
+female,casual,(50+),casual wear
+male,formal,(44-50),formal wear
+male,casual,(21-24),sportswear
+male,casual,(38-43),sportswear
+male,formal,(21-24),casual wear
+male,formal,(44-50),formal wear
+male,formal,(25-32),casual wear
+female,formal,(25-32),casual wear
+male,sportswear,(50+),sportswear
+male,modern,(25-32),casual wear
+male,casual,(50+),sportswear
+female,formal,(50+),travel and leisure
+male,formal,(44-50),formal wear
+male,formal,(25-32),casual wear
+female,sportswear,(50+),casual wear
+male,formal,(33-37),formal wear
+male,formal,(38-43),formal wear
+male,formal,(21-24),casual wear
+male,modern,(21-24),casual wear
+male,sportswear,(44-50),sportswear
+female,formal,(25-32),casual wear
+female,casual,(25-32),casual wear
+female,casual,(50+),casual wear
+male,casual,(15-20),sportswear
+male,sportswear,(50+),sportswear
+male,sportswear,(38-43),sportswear
+female,casual,(33-37),casual wear
+male,formal,(21-24),casual wear
+male,sportswear,(50+),sportswear
+female,casual,(15-20),casual wear
+male,casual,(15-20),sportswear
+female,formal,(50+),travel and leisure
+female,modern,(44-50),luxury
+female,sportswear,(21-24),casual wear
+male,formal,(44-50),formal wear
+male,casual,(33-37),sportswear
+male,casual,(15-20),sportswear
+male,formal,(15-20),casual wear
+male,sportswear,(38-43),sportswear
+male,modern,(33-37),electronics
+male,modern,(15-20),casual wear
+female,casual,(33-37),casual wear
+male,sportswear,(21-24),sportswear
+female,modern,(25-32),casual wear
+male,sportswear,(15-20),sportswear
+male,sportswear,(38-43),sportswear
+male,casual,(21-24),sportswear
+female,modern,(50+),luxury
+female,formal,(33-37),travel and leisure
+female,casual,(50+),casual wear
+female,modern,(44-50),luxury
+male,modern,(21-24),casual wear
+female,modern,(50+),luxury
+male,modern,(15-20),casual wear
+male,modern,(33-37),electronics
+female,sportswear,(25-32),casual wear
+female,casual,(21-24),casual wear
+female,sportswear,(15-20),casual wear
+female,formal,(38-43),travel and leisure
+female,modern,(44-50),luxury
+female,casual,(33-37),casual wear
+female,modern,(21-24),casual wear
+female,casual,(21-24),casual wear
+male,sportswear,(25-32),sportswear
+female,casual,(25-32),casual wear
+female,formal,(38-43),travel and leisure
+male,formal,(44-50),formal wear
+female,casual,(38-43),casual wear
+male,casual,(15-20),sportswear
+male,casual,(15-20),sportswear
+female,casual,(38-43),casual wear
+male,formal,(44-50),formal wear
+male,modern,(38-43),electronics
+male,casual,(44-50),sportswear
+male,casual,(44-50),sportswear
+female,formal,(50+),travel and leisure
+male,formal,(33-37),formal wear
+female,sportswear,(44-50),casual wear
+male,casual,(25-32),sportswear
+male,sportswear,(44-50),sportswear
+male,formal,(44-50),formal wear
+male,formal,(44-50),formal wear
+female,modern,(50+),luxury
+female,casual,(50+),casual wear
+male,sportswear,(15-20),sportswear
+male,formal,(50+),formal wear
+female,formal,(25-32),casual wear
+male,sportswear,(25-32),sportswear
+male,modern,(50+),electronics
+male,formal,(38-43),formal wear
+female,casual,(33-37),casual wear
+female,formal,(50+),travel and leisure
+female,casual,(44-50),casual wear
+male,sportswear,(21-24),sportswear
+male,casual,(33-37),sportswear
+female,sportswear,(33-37),casual wear
+female,casual,(25-32),casual wear
+female,sportswear,(33-37),casual wear
+female,casual,(50+),casual wear
+male,modern,(44-50),electronics
+female,casual,(44-50),casual wear
+male,casual,(15-20),sportswear
+female,modern,(44-50),luxury
+male,formal,(44-50),formal wear
+female,formal,(25-32),casual wear
+female,casual,(44-50),casual wear
+female,modern,(15-20),casual wear
+female,casual,(21-24),casual wear
+male,sportswear,(50+),sportswear
+female,sportswear,(25-32),casual wear
+male,casual,(21-24),sportswear
+male,formal,(25-32),casual wear
+male,formal,(38-43),formal wear
+male,casual,(33-37),sportswear
+female,casual,(38-43),casual wear
+male,sportswear,(44-50),sportswear
+male,formal,(21-24),casual wear
+male,casual,(44-50),sportswear
+female,sportswear,(33-37),casual wear
+female,formal,(25-32),casual wear
+female,modern,(33-37),luxury
+female,sportswear,(15-20),casual wear
+male,formal,(33-37),formal wear
+male,formal,(15-20),casual wear
+female,sportswear,(33-37),casual wear
+male,modern,(50+),electronics
+male,sportswear,(15-20),sportswear
+male,formal,(21-24),casual wear
+female,casual,(44-50),casual wear
+female,casual,(44-50),casual wear
+male,sportswear,(38-43),sportswear
+female,formal,(44-50),travel and leisure
+female,casual,(25-32),casual wear
+female,formal,(50+),travel and leisure
+female,sportswear,(33-37),casual wear
+female,casual,(38-43),casual wear
+male,formal,(25-32),casual wear
+female,casual,(25-32),casual wear
+male,sportswear,(15-20),sportswear
+male,formal,(44-50),formal wear
+female,casual,(21-24),casual wear
+male,sportswear,(21-24),sportswear
+male,casual,(38-43),sportswear
+male,casual,(50+),sportswear
+female,modern,(21-24),casual wear
+female,modern,(33-37),luxury
+male,sportswear,(21-24),sportswear
+female,modern,(38-43),luxury
+female,sportswear,(21-24),casual wear
+female,modern,(33-37),luxury
+female,casual,(15-20),casual wear
+male,sportswear,(50+),sportswear
+male,sportswear,(38-43),sportswear
+female,casual,(15-20),casual wear
+female,sportswear,(15-20),casual wear
+male,sportswear,(15-20),sportswear
+male,modern,(25-32),casual wear
+female,sportswear,(50+),casual wear
+male,formal,(44-50),formal wear
+female,casual,(50+),casual wear
+female,modern,(25-32),casual wear
+male,modern,(44-50),electronics
+male,formal,(50+),formal wear
+female,casual,(15-20),casual wear
+female,casual,(38-43),casual wear
+male,modern,(44-50),electronics
+female,sportswear,(33-37),casual wear
+male,modern,(33-37),electronics
+female,casual,(21-24),casual wear
+male,formal,(44-50),formal wear
+male,modern,(38-43),electronics
+male,casual,(25-32),sportswear
+female,modern,(15-20),casual wear
+female,sportswear,(21-24),casual wear
+male,modern,(33-37),electronics
+female,modern,(25-32),casual wear
+male,casual,(25-32),sportswear
+male,casual,(15-20),sportswear
+female,casual,(44-50),casual wear
+female,modern,(33-37),luxury
+male,sportswear,(38-43),sportswear
+female,formal,(25-32),casual wear
+female,formal,(15-20),casual wear
+male,casual,(38-43),sportswear
+male,casual,(44-50),sportswear
+female,modern,(33-37),luxury
+male,formal,(44-50),formal wear
+male,casual,(25-32),sportswear
+female,sportswear,(38-43),casual wear
+male,sportswear,(38-43),sportswear
+male,casual,(38-43),sportswear
+female,casual,(25-32),casual wear
+female,formal,(25-32),casual wear
+male,formal,(44-50),formal wear
+male,modern,(21-24),casual wear
+female,formal,(44-50),travel and leisure
+female,sportswear,(33-37),casual wear
+female,sportswear,(15-20),casual wear
+female,casual,(38-43),casual wear
+male,formal,(21-24),casual wear
+female,modern,(15-20),casual wear
+female,sportswear,(21-24),casual wear
+male,sportswear,(50+),sportswear
+female,modern,(44-50),luxury
+male,modern,(25-32),casual wear
+female,sportswear,(38-43),casual wear
+female,sportswear,(44-50),casual wear
+female,modern,(15-20),casual wear
+male,sportswear,(50+),sportswear
+male,casual,(50+),sportswear
+female,casual,(50+),casual wear
+male,modern,(15-20),casual wear
+male,formal,(15-20),casual wear
+male,modern,(15-20),casual wear
+male,modern,(15-20),casual wear
+male,formal,(50+),formal wear
+male,formal,(50+),formal wear
+female,formal,(21-24),casual wear
+female,casual,(44-50),casual wear
+male,sportswear,(38-43),sportswear
+female,casual,(25-32),casual wear
+female,sportswear,(50+),casual wear
+female,casual,(25-32),casual wear
+female,sportswear,(44-50),casual wear
+male,casual,(44-50),sportswear
+female,formal,(25-32),casual wear
+female,modern,(50+),luxury
+male,casual,(25-32),sportswear
+male,sportswear,(21-24),sportswear
+female,formal,(33-37),travel and leisure
+female,casual,(50+),casual wear
+female,casual,(50+),casual wear
+female,formal,(38-43),travel and leisure
+female,casual,(15-20),casual wear
+female,modern,(33-37),luxury
+male,casual,(44-50),sportswear
+female,modern,(50+),luxury
+female,modern,(25-32),casual wear
+male,formal,(33-37),formal wear
+male,casual,(38-43),sportswear
+male,formal,(44-50),formal wear
+male,casual,(15-20),sportswear
+female,casual,(15-20),casual wear
+female,sportswear,(38-43),casual wear
+female,casual,(38-43),casual wear
+female,formal,(25-32),casual wear
+female,modern,(50+),luxury
+female,casual,(15-20),casual wear
+male,sportswear,(44-50),sportswear
+female,formal,(33-37),travel and leisure
+male,casual,(44-50),sportswear
+male,formal,(21-24),casual wear
+female,sportswear,(21-24),casual wear
+male,sportswear,(38-43),sportswear
+female,formal,(25-32),casual wear
+male,casual,(21-24),sportswear
+female,modern,(15-20),casual wear
+male,sportswear,(44-50),sportswear
+female,casual,(44-50),casual wear
+female,casual,(38-43),casual wear
+female,modern,(50+),luxury
+female,sportswear,(50+),casual wear
+female,sportswear,(33-37),casual wear
+male,casual,(38-43),sportswear
+male,casual,(33-37),sportswear
+male,modern,(50+),electronics
+female,modern,(38-43),luxury
+male,sportswear,(38-43),sportswear
+female,formal,(38-43),travel and leisure
+female,sportswear,(50+),casual wear
+male,casual,(33-37),sportswear
+male,sportswear,(33-37),sportswear
+female,formal,(38-43),travel and leisure
+male,modern,(21-24),casual wear
+female,formal,(25-32),casual wear
+female,formal,(50+),travel and leisure
+female,formal,(25-32),casual wear
+female,modern,(25-32),casual wear
+female,formal,(33-37),travel and leisure
+male,formal,(33-37),formal wear
+male,formal,(21-24),casual wear
+female,casual,(25-32),casual wear
+female,formal,(25-32),casual wear
+male,modern,(38-43),electronics
+male,formal,(33-37),formal wear
+female,formal,(25-32),casual wear
+male,modern,(44-50),electronics
+female,formal,(21-24),casual wear
+male,modern,(44-50),electronics
+female,formal,(44-50),travel and leisure
+male,modern,(50+),electronics
+female,formal,(50+),travel and leisure
+male,formal,(21-24),casual wear
+male,casual,(44-50),sportswear
+female,casual,(25-32),casual wear
+male,formal,(33-37),formal wear
+female,formal,(21-24),casual wear
+male,sportswear,(38-43),sportswear
+female,modern,(44-50),luxury
+male,sportswear,(21-24),sportswear
+female,casual,(15-20),casual wear
+male,casual,(15-20),sportswear
+female,casual,(50+),casual wear
+male,casual,(33-37),sportswear
+female,formal,(25-32),casual wear
+female,casual,(33-37),casual wear
+female,formal,(33-37),travel and leisure
+male,formal,(33-37),formal wear
+female,casual,(33-37),casual wear
+male,casual,(38-43),sportswear
+female,modern,(38-43),luxury
+male,sportswear,(50+),sportswear
+female,casual,(21-24),casual wear
+male,modern,(15-20),casual wear
+male,modern,(33-37),electronics
+female,sportswear,(50+),casual wear
+male,formal,(21-24),casual wear
+male,casual,(15-20),sportswear
+female,sportswear,(44-50),casual wear
+male,casual,(25-32),sportswear
+male,modern,(38-43),electronics
+male,modern,(44-50),electronics
+female,formal,(15-20),casual wear
+male,modern,(44-50),electronics
+female,modern,(25-32),casual wear
+male,sportswear,(50+),sportswear
+male,casual,(15-20),sportswear
+male,casual,(44-50),sportswear
+female,sportswear,(38-43),casual wear
+male,formal,(38-43),formal wear
+male,casual,(21-24),sportswear
+female,modern,(44-50),luxury
+male,casual,(33-37),sportswear
+female,modern,(44-50),luxury
+female,formal,(50+),travel and leisure
+male,sportswear,(15-20),sportswear
+female,casual,(15-20),casual wear
+male,sportswear,(50+),sportswear
+female,casual,(44-50),casual wear
+female,modern,(50+),luxury
+male,sportswear,(25-32),sportswear
+female,casual,(50+),casual wear
+female,modern,(38-43),luxury
+female,sportswear,(50+),casual wear
+female,sportswear,(15-20),casual wear
+female,casual,(38-43),casual wear
+male,casual,(15-20),sportswear
+female,casual,(21-24),casual wear
+male,modern,(33-37),electronics
+female,casual,(15-20),casual wear
+male,sportswear,(38-43),sportswear
+male,sportswear,(21-24),sportswear
