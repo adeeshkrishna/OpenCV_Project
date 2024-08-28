@@ -36,7 +36,7 @@ Model Details
 - Fashion Style Recognition: A VGG16-based CNN model is used to classify clothing styles into categories like casual, formal, modern, and sportswear.
 - Ad Display Algorithm: A Random Forest model trained on demographic and fashion data is used to select the most suitable ad from a predefined set.
 
-#Future Enhancements
+# Future Enhancements
 
 - Emotion Detection: Incorporate emotion detection to further refine ad targeting.
 - Enhanced Dataset: Expand the dataset to improve model accuracy across diverse demographics.
